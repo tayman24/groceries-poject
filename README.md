@@ -1,4 +1,5 @@
 # groceries-poject
 
-
-example changes
+[]create sorting algorithm
+[]create delivery condition list algorithm
+[]
