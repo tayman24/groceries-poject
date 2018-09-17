@@ -1,6 +1,6 @@
-# groceries project
+# Groceries Project
 
-## - todo list
+## - Todo list
    - name objects
     - [x]apples
     - [x]oranges
