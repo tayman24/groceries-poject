@@ -10,4 +10,5 @@
    - []create condition list program
    <!--required delivery condition vs acquired delivery condition-->
    - []create inventory/capacity limit program
-   - [] create warehouse to customer delivery system
+   - []create warehouse to customer delivery system
+   - []create payment algorithm
