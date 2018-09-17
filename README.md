@@ -1,7 +1,4 @@
 # groceries-poject
 
-[]create sorting algorithm
-
-[]create delivery condition list algorithm
-
-[]
+## to do list
+ - 
