@@ -12,3 +12,5 @@
    - []create inventory/capacity limit program
    - []create warehouse to customer delivery system
    - []create payment algorithm
+   - []create refund algorithm
+   - []create cancel ordered item algorithm
